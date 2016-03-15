@@ -1,0 +1,22 @@
+{
+  "name": "titan-talk",
+  "version": "0.0.0",
+  "description": "Learning React",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "express": "^4.4.5",
+    "socket.io" : "^1.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "react",
+    "node",
+    "chat"
+  ],
+  "author": "Dante"
+}
