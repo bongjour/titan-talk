@@ -85,7 +85,7 @@ $(document).ready(function() {
         this.props.onSend({
           message : this.state.message,
           name : 'dante',
-          avatar : 'https://hub.coupang.net/jsp/org/view/ViewPicture.jsp?user_id=001004405'
+          avatar : 'img/dante.gif'
         });
 
         this.setState({

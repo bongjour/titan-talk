@@ -6,7 +6,7 @@ $(document).ready(function() {
     var output = '';
     output += '<div class="Area">';
     output += ' <div class="L">';
-    output += '   <img src="https://hub.coupang.net/jsp/org/view/ViewPicture.jsp?user_id=001004405"/>';
+    output += '   <img src="img/dante.gif"/>';
     output += '   <div class="tooltip">Sami Massadeh - 28 Years<br/>Doctor <br/>Jordan</div>';
     output += ' </div>';
     output += ' <div class="text R textR"> ' + data.message.replace(/\n/g, "<br />") + '</div>'
