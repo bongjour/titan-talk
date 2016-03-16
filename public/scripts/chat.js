@@ -30,3 +30,15 @@ $(document).ready(function() {
     //$('.container').find('scroll');
   });
 });
+
+
+
+
+//data.message.replace(/\n/g, "<br />")
+//<div class="Area">
+//    <div class="L">
+//    <img src="img/dante.gif"/>
+//    <div class="tooltip">Sami Massadeh - 28 Years<br/>Doctor <br/>Jordan</div>
+//</div>
+//<div class="text R textR"></div>
+//</div>
